@@ -1,4 +1,4 @@
-# Reset CSS
+# Normalize CSS
  
 ## O que é?
 
